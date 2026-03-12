@@ -15,7 +15,7 @@
 
 ### who am i?
 
-2nd-year B.Tech student in **AI & ML** at Symbiosis Institute of Technology, Pune. I build things I would've used myself, tools I needed but couldn't find, and ideas that were just too fun to leave alone.
+2nd-year B.Tech **AIML** student in  at Symbiosis Institute of Technology, Pune. I like building things I would've used myself, tools I needed but couldn't find, and ideas that were too fun to leave alone.
 
 ---
 
