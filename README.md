@@ -23,8 +23,8 @@
 
 | project | what it does | stack |
 |---|---|---|
-| 🗂️ **[WarrantyDeck](https://github.com/ridds-io/WarrantyDeck)** | warranty & receipt manager with OCR auto-extraction | Next.js · PostgreSQL · OCR |
-| 🎮 **[FinQuest](https://github.com/ridds-io/FinQuest)** | Duolingo-style RPG that teaches financial literacy to Indian college students, with a Socratic AI tutor | Next.js · Supabase · Grok API |
+| 🗂️ **[WarrantyDeck](https://github.com/ridds-io/Warranty-Deck)** | warranty & receipt manager with OCR auto-extraction | Next.js · PostgreSQL · OCR |
+| 🎮 **[FinQuest](https://github.com/ridds-io/FinQuest)** | Duolingo-style RPG that teaches financial literacy to Indian college students, with a Socratic AI tutor | Next.js · Supabase · Groq API |
 | 📈 **Implied Volatility Predictor** | forecast crypto IV 10 seconds ahead from order book data — GoQuant take-home assignment| Python · LightGBM · GARCH |
 | 🔐 **StegoLab** | benchmarking platform for steganographic algorithms across different carrier media | Java |
 
