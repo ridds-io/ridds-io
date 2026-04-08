@@ -25,8 +25,32 @@
 |---|---|---|
 | 🗂️ **[WarrantyDeck](https://github.com/ridds-io/Warranty-Deck)** | warranty & receipt manager with OCR auto-extraction | Next.js · PostgreSQL · OCR |
 | 🎮 **[FinQuest](https://github.com/ridds-io/FinQuest)** | Duolingo-style RPG that teaches financial literacy to Indian college students, with a Socratic AI tutor | Next.js · Supabase · Groq API |
-| 📈 **Implied Volatility Predictor** | forecast crypto IV 10 seconds ahead from order book data — GoQuant take-home assignment| Python · LightGBM · GARCH |
-| 🔐 **StegoLab** | benchmarking platform for steganographic algorithms across different carrier media | Java |
+| 📈 **Implied Volatility Predictor** | forecast crypto IV 10 seconds ahead from order book data — GoQuant take-home assignment | Python · LightGBM · GARCH |
+| 📉 **[Telco Customer Churn Prediction](https://github.com/ridds-io/Telco-Customer-Churn-Prediction)** | end-to-end ML pipeline on Kaggle telecom churn dataset — top 20% finish (790/4142) | Python · XGBoost · Scikit-learn · Pandas |
+
+---
+
+### course-work projects
+
+| project | what it does | stack |
+|---|---|---|
+| 🔢 **[Unique Sudoku Generator](https://github.com/ridds-io/Unique-Sudoku-Generator)** | generates sudoku puzzles guaranteed to have a unique solution | Java |
+| 🎵 **[Audio Analysis System](https://github.com/ridds-io/Audio-Analysis-System)** | recognizes instruments in audio clips, identifies genre, and analyzes audio quality | Python · Librosa |
+| 🔐 **[StegoLab](https://github.com/ridds-io/StegoLab)** | benchmarking platform for steganographic algorithms across different carrier media | Java |
+
+*more projects coming soon...*
+
+---
+
+### learning & practice
+
+| repo | what it is |
+|---|---|
+| ☕ **[Java-Programs](https://github.com/ridds-io/Java-Programs)** | Java exercises and programs from coursework |
+| 🧩 **[Leetcode](https://github.com/ridds-io/Leetcode)** | solutions to Leetcode problems |
+| 🧠 **[Practice-Problems](https://github.com/ridds-io/Practice-Problems)** | miscellaneous coding practice problems |
+
+*tutorial notebooks coming soon...*
 
 ---
 
