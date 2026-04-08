@@ -34,7 +34,7 @@
 
 | project | what it does | stack |
 |---|---|---|
-| 🔢 **[Unique Sudoku Generator](https://github.com/ridds-io/Unique-Sudoku-Generator)** | generates sudoku puzzles guaranteed to have a unique solution | Java |
+| 🔢 **[Unique Sudoku Generator](https://github.com/ridds-io/Unique-Sudoku-Generator)** | generates sudoku puzzles guaranteed to have a unique solution | Python |
 | 🎵 **[Audio Analysis System](https://github.com/ridds-io/Audio-Analysis-System)** | recognizes instruments in audio clips, identifies genre, and analyzes audio quality | Python · Librosa |
 | 🔐 **[StegoLab](https://github.com/ridds-io/StegoLab)** | benchmarking platform for steganographic algorithms across different carrier media | Java |
 
@@ -48,7 +48,7 @@
 |---|---|
 | ☕ **[Java-Programs](https://github.com/ridds-io/Java-Programs)** | Java exercises and programs from coursework |
 | 🧩 **[Leetcode](https://github.com/ridds-io/Leetcode)** | solutions to Leetcode problems |
-| 🧠 **[Practice-Problems](https://github.com/ridds-io/Practice-Problems)** | miscellaneous coding practice problems |
+| 🧠 **[Practice-Problems](https://github.com/ridds-io/Practice-Problems)** | coding practice problems focused on optimizing Time and Space Complexity|
 
 *tutorial notebooks coming soon...*
 
